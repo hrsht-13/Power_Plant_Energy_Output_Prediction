@@ -26,4 +26,5 @@ Features consist of hourly average ambient variables:
 The submission will be evaluated using the Root Mean Squared Error metric. 
 
 ## LeaderBoard
+No. of registered: 301
 https://www.machinehack.com/hackathons/power_plant_energy_output_prediction_weekend_hackathon_13
